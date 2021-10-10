@@ -1,0 +1,10 @@
+Ques:1 Create a simple REST ful web service in Spring Boot which returns the Response "Welcome to spring boot".
+Answer:
+REST SERVICE CREATED
+URI: http://localhost:8080/Ques1
+
+
+
+
+
+
